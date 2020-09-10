@@ -1,0 +1,1 @@
+7/09/2020-Data fetched from Api and data display in card form.
